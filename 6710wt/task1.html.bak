@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CVR BOOK STORE</title>
+	<style>
+	a{
+	color:black;
+	text-decoration:none;
+	}
+	.sidebar a{
+	display:block;
+	}
+	
+	</style>
+</head>
+<body>
+<header style="background-color:#B8BAC8">
+<table width="100%" border="0">
+<tr>
+<td width="20%" align="left">
+    <img src ="https://cvr.ac.in/it/it_cvr_logo1.jpg" alt = "cvr logo" width = 80px>
+	</td>
+	<td width="60%" align="center">
+	<h1>CVR COLLEGE OF ENGINEERING</h1>
+	<h2>Vastunagar, Mangalpalli (V), Ibrahimpatnam (M),
+Rangareddy (D), Telangana 501 510</h2>
+</td>
+<td width="20%"> </td>
+</tr>
+</header>
+<nav style="background-color:#D7FDF0">
+<table width="100%" border="0">
+<tr>
+<td  width="25%" align="center">
+<a href="home.html" target="content">Home</a>
+</td>
+<td  width="25%" align="center">
+<a href="login.html" target="content">Login</a>
+</td>
+<td  width="25%" align="center">
+<a href="registration.html" target="content">Registration</a>
+</td>
+<td  width="25%" align="center">
+<a href="atalogue.html" target="content">Catalogue</a>
+</td>
+</tr>
+</table>
+</nav>
+<table width="100%" border="0">
+<tr>
+<td width="20%" class="sidebar">
+<a href="cse.html" target="content">CSE</a>
+<a href="csm.html" target="content">CSE(AIML)</a>
+<a href="csd.html" target="content">CSE(DS)</a>
+<a href="csc.html" target="content">CSE(CYBER)</a>
+</td>
+<td width="80%">
+<iframe name="content"
+src="Home.html"
+width="100%"
+height="600"
+frameborder="0">
+</iframe>
+</td>
+</tr>
+</table>
+</body>
+<footer>
+	<div>
+		<p>24B81A6710</P>
+	</div>
+</footer>
+</html>
