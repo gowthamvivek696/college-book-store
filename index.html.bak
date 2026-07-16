@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Index</title>
+  <link rel ="stylesheet" href ="style.css">
+ </head>
+ <body>
+<header class = "header">
+ <img src ="https://cvr.ac.in/it/it_cvr_logo1.jpg" alt = "cvr logo" width = 80px>
+ <h1>CVR COLLEGE OF ENGINEERING</h1>
+	<h2>Vastunagar, Mangalpalli (V), Ibrahimpatnam (M),
+Rangareddy (D), Telangana 501 510</h2>
+</header>
+<nav class = "navbar"> 
+<a href="home.html" target="content">Home</a>
+<a href="login.html" target="content">Login</a>
+<a href="registration.html" target="content">Registration</a>
+<a href="atalogue.html" target="content">Catalogue</a>
+</nav>
+ </body>
+</html>
